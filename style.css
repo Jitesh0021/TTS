@@ -889,7 +889,7 @@ body.dark-mode .variants li:hover {
         /* Hidden off-screen */
         width: 70%;
         height: 100vh;
-        background: var(--glass-bg);
+        background: rgba(255, 255, 255, 0.95);
         backdrop-filter: blur(15px);
         -webkit-backdrop-filter: blur(15px);
         flex-direction: column;
@@ -977,6 +977,7 @@ body.dark-mode .variants li:hover {
     border-color: #E1306C;
 
 }
+
 
 
 
