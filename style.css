@@ -906,6 +906,10 @@ body.dark-mode .variants li:hover {
         /* Slide in */
     }
 
+     body.dark-mode .nav-links {
+        background: rgba(0, 0, 0, 0.95);
+    }
+
     /* Hamburger Animation when active */
     /* Hamburger Animation when active */
     .hamburger.toggle span:nth-child(1) {
@@ -973,5 +977,6 @@ body.dark-mode .variants li:hover {
     border-color: #E1306C;
 
 }
+
 
 
