@@ -875,9 +875,9 @@ body.dark-mode .variants li:hover {
     }
 
     .hamburger {
-        position: relative; 
         display: flex;
         z-index: 1001;
+        position: relative;
     }
     
 
@@ -973,4 +973,5 @@ body.dark-mode .variants li:hover {
     border-color: #E1306C;
 
 }
+
 
